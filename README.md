@@ -7,9 +7,14 @@
 
 a = 1
 b = 1
-c = a+b
 
+=======
 
-## This is messing up the file
+## Header 2
 
-## Chaos
+## Header 3
+
+## Header 4
+
+I added extra headers
+>>>>>>> ac69baccdfc1a9c0e651ee09f4cbf51c4c71b03d
